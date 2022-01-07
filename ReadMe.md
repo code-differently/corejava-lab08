@@ -95,3 +95,26 @@ Your program should produce a similar output:
 Tariq wants to purchase 2 Cars
 Total cost with tax is: $66,000.00
 ```
+
+## Part C
+
+Money Exchange
+
+You are going to create a application that lets the user exchange currancy from one nationality to another.
+
+Use the Table Below as the bases for exchange rates:
+
+## Exchange Rates
+
+| Currency | Rate |
+|----------|------|
+| Us Dollar| 1.00 |
+| Euro                  | 0.94 |
+| British Pound         | 0.82  |
+| Indian Rupee          | 68.32 |
+| Japanese Yen          | 115.84 |
+| Chinese Yuan Renminbi | 6.92   |
+
+> All of the rates are based off the US Dollar
+
+
